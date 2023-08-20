@@ -2,7 +2,7 @@
 ## Ha-Ha-Hattori 🥷
 In the realm of shadows and secrets, the legendary ninja, Ninja Hattori, finds himself entangled in trouble. As he trains diligently in his ancient dojo, distressing news reaches him – the sacred flag, an emblem of honor and wisdom, has been stolen by a malevolent force.
 
-Feeling the weight of responsibility, Ninja Hattori knows he cannot face this perilous challenge alone. Help him on his quest using the Godot engine to create a virtual world of obstacles and train him to capture the flag.  💻 🌍
+Feeling the weight of responsibility, Ninja Hattori knows he cannot face this perilous challenge alone. Help him on his quest using the Godot engine to create a virtual world of obstacles and train him to capture the flag.  
 
 
 
