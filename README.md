@@ -6,7 +6,7 @@ Feeling the weight of responsibility, Ninja Hattori knows he cannot face this pe
 
 
 
-### TO-DO's  :
+### TO-DO  :
  
 - Create a virtual world  and the character using provided assets.
 
